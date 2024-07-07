@@ -8,11 +8,11 @@ Note that each directory currently has at least one file in it to ensure that gi
 
 
 
-## Error
+## Error 1
 
 raise InvalidLaunchFileError(extension, likely_errors=exceptions)
 launch.invalid_launch_file_error.InvalidLaunchFileError: Caught exception when trying to load file of format [py]: No module named 'xacro'
 
-## Solution
+## Solution 1
 sudo apt install ros-foxy-xacro
  
