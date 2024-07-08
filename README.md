@@ -15,4 +15,13 @@ launch.invalid_launch_file_error.InvalidLaunchFileError: Caught exception when t
 
 ## Solution 1
 sudo apt install ros-foxy-xacro
+
+## Error 2
+
+Package 'joint_state_publisher_gui' not found
+
+## Solution 2
+sudo apt install ros-foxy-joint-state-publisher-gui
+
+ 
  
